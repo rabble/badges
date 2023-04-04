@@ -8,7 +8,7 @@ export default function Login() {
     <>
       <Helmet>
         <meta charSet="utf-8" />
-        <title>Badges</title>
+        <title>Blue Checkmark Club</title>
       </Helmet>
       <Layout>
         <SignUp />

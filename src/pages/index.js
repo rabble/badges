@@ -20,7 +20,7 @@ export default function Home() {
     <>
       <Helmet>
         <meta charSet="utf-8" />
-        <title>Badges</title>
+        <title>Blue Checkmark Club</title>
       </Helmet>
       <Layout>
         <SignUp />

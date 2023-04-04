@@ -25,7 +25,16 @@ export default function Footer() {
           href="/p/7fa56f5d6962ab1e3cd424e758c3002b8665f7b0d8dcee9fe9e288d7751ac194"
         >
           verbiricha
-        </Link>
+        </Link>. 
+        <br></br>
+        And with miminaml humorous hacking by &{" "}
+        <Link
+          color={highlight}
+          href="/p/76c71aae3a491f1d9eec47cba17e229cda4113a0bbb6e6ae1776d7643e29cafa"
+        >
+         rabble
+        </Link>. 
+
       </Text>
     </Flex>
   );
